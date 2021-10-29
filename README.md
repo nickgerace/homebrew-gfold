@@ -1,4 +1,3 @@
-# Homebrew Tap for gfold
+# DEPRECATION NOTICE
 
-This repository houses the [Homebrew](https://brew.sh) tap for [gfold](https://github.com/nickgerace/gfold).
-Check out the [project's documentation](https://github.com/nickgerace/gfold/blob/main/README.md) for more information.
+This tap is now maintained elsewhere: [https://github.com/nickgerace/homebrew-nickgerace](https://github.com/nickgerace/homebrew-nickgerace
